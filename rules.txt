@@ -1,0 +1,12 @@
+GRID DRAWING CHALLENGE
+
+RES = 640 x 480
+
+plot pixels only
+
+pygame / SDL
+
+for grid size draw
+    for width size draw
+        draw x pixel first by width
+        draw y pixel first by width
